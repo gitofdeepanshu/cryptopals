@@ -1,8 +1,11 @@
 # Cryptopals Challenges in Rust
 
 This repository contains solutions to the [Cryptopals challenges](https://cryptopals.com) implemented in Rust programming language. The challenges cover a range of cryptography topics and aim to strengthen your understanding of the subject.
-I personally think it is a good way to increase your understaning of RUST programming language.
+I personally think it is a good way to increase your understaning of RUST programming language
 
+WARNING: This is an academic proof-of-concept prototype, and in particular has not received careful code review. This implementation is NOT ready for production use.
+
+## Contents
 - [Challenge 1: Basic Crypto](#challenge-1-basic-crypto)
   - Contains 8 challenges that focus on basic cryptography concepts such as single-byte XOR cipher, fixed XOR, and hexadecimal decoding.
 - [Challenge 2: Block Crypto](#challenge-2-block-crypto)
@@ -15,8 +18,15 @@ I personally think it is a good way to increase your understaning of RUST progra
   - Contains 8 challenges that explore Diffie-Hellman and its variants, including breaking and fixing DH with parameters of your own choice, and more.
 
 
-...and so on
-
+## Progress
+- [x] Set 1 (Completed)
+- [x] Set 2 (Completed)
+- [x] Set 3 (Completed)
+- [x] Set 4 (Completed)
+- [ ] Set 5 (In Progress)
+- [ ] Set 6
+- [ ] Set 7
+- [ ] Set 8
 ## Prerequisites
 - A basic understanding of cryptography and its principles
 - Familiarity with Rust programming language
